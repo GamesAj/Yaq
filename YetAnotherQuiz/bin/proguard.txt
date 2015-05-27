@@ -1,0 +1,14 @@
+# view AndroidManifest.xml #generated:28
+-keep class com.Antoniolage.yetanotherquiz.GameActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:16
+-keep class com.Antoniolage.yetanotherquiz.Menu { <init>(...); }
+
+# onClick res/layout/activity_game.xml #generated:11
+# onClick res/layout/activity_game.xml #generated:24
+# onClick res/layout/activity_game.xml #generated:37
+-keepclassmembers class * { *** IsCorrect(...); }
+
+# onClick res/layout/activity_menu.xml #generated:7
+-keepclassmembers class * { *** StartQuiz(...); }
+

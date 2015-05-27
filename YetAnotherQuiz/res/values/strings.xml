@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">YaQ</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_desc">QUIZ</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="botao3">Essa aqui ta certa</string>
+
+</resources>
